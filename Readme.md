@@ -1,9 +1,9 @@
 # Git Course
 
-Este é um repositório teste para aprender como o Git funciona.
+Este é um repositório teste de aprendizagem de Gabriel.
 
-Saiba mais no link: [www.lexsis.com.br](http://lexsis.com.br
+Saiba mais no link: [www.gti-informatica.com](http://gti-informatica.com
 
-Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido.
+Em busca de novos caminhos e troca de conhecimento.
 )
 # githubcourse882
